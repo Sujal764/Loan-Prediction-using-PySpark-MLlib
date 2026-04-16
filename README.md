@@ -32,3 +32,10 @@ Loan defaults cause significant financial loss to institutions.Early detection o
 # 🏆 Final Model Performance
 ##### ROC-AUC ≈ 0.64
 ##### Improved recall using threshold tuning
+
+# 🏗 Architecture & Pipeline
+### 1️⃣ Data Ingestion → Cleaning → Encoding → Scaling 2️⃣ Model Training & Validation 3️⃣ Threshold Optimization 4️⃣ Deployment (FastAPI + Streamlit)
+
+### 📌 Automated ML Pipeline ensures reproducibility and scalable inference.
+
+
