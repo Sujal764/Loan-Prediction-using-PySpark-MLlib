@@ -17,11 +17,11 @@ Loan defaults cause significant financial loss to institutions.Early detection o
 ##### *Model Monitoring:Logging & threshold tuning included
 
 # 🧹 Data Preprocessing
-#####✔ Outlier detection and capping
-#####✔ Missing values handled via median/mode + new category for >30% missing
-#####✔ Label & frequency encoding applied to categorical variables
-#####✔ Feature engineering based on correlation metrics
-#####✔ Standard scaling for numerical stability
+##### ✔ Outlier detection and capping
+##### ✔ Missing values handled via median/mode + new category for >30% missing
+##### ✔ Label & frequency encoding applied to categorical variables
+##### ✔ Feature engineering based on correlation metrics
+##### ✔ Standard scaling for numerical stability
 
 # ⚙ Model & Evaluation
 #### Multiple models were tested:
